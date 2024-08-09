@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aniruddhsinh Jadeja
 
-- 🔭 I’m currently working on a medium scale Medical appointment booking project. Pretty exciting for me !!
+- 🔭 I’m currently working on a medium scale 3D website project. Pretty exciting for me !!
 - 🌱 I’m currently learning ReactNative, Docker, AWS
 - 👯 I’m looking to get feedback on my repository architecture, better code practices and new solutions.
 - 🤔 I’m looking for help with thinking about edge cases and future scenarios.
